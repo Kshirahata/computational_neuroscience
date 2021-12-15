@@ -1,5 +1,5 @@
 %１-6-2 Simulating ODEs with MATLAB
-clear
+clear;
 
 %初期値の設定
 x0 = 2;

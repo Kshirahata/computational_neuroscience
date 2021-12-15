@@ -1,4 +1,5 @@
 %1-6-3 Solving Coupled ODEs with Multiple Variables
+clear;
 
 %初期値の設定
 x0 = 1.0;
